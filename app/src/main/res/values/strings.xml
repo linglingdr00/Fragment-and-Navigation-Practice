@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My FragTest</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="one_fragment">One Fragment</string>
+    <string name="two_fragment">Two Fragment</string>
+    <string name="to_two_str">Go To Next Page</string>
+</resources>
